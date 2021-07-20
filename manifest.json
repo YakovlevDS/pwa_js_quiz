@@ -5,7 +5,7 @@
   "short_name": "Quiz App",
   "scope": "/pwa_js_quiz/",
   "display": "standalone",
-  "start_url": "https://yakovlevds.github.io/pwa_js_quiz/",
+  "start_url": "https://yakovlevds.github.io/pwa_js_quiz/index.html",
   "background_color": "#d71919",
   "theme_color": "#048b33",
   "orientation": "any",
